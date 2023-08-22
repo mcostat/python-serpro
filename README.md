@@ -1,6 +1,6 @@
 # Desafio de python com API REST e banco de dados POSTGRES
 ## Inicio
-Para começar é necessario ter o [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads) ([com a extensao do Dev Container](vscode:extension/ms-vscode-remote.remote-containers)) e o [Docker](https://www.docker.com/products/docker-desktop/) instalados e rodando.
+Para começar é necessario ter o [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads) ([com a extensao do Dev Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)) e o [Docker](https://www.docker.com/products/docker-desktop/) instalados e rodando.
 Basta clonar esse projeto para uma pasta e abrir a pasta do projeto no vscode que aparecerá a opção de abrir o projeto num container.
 
 ## Desafio
