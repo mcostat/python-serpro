@@ -7,3 +7,5 @@ Basta clonar esse projeto para uma pasta e abrir a pasta do projeto no vscode qu
 O SERPRO precisa salvar as informações de posts de alguns usuarios de um site no seu próprio banco de dados. Para isso você vai precisar ler da API REST (como exemplificado na pasta exemplo) todos os posts e usuarios e por fim salvar no banco postgres (como exemplificado na pasta exemplo). 
 
 Também é necessario que sejam feitos testes unitarios para garantir que suas funções e classes estão funcionando.
+
+Algumas constantes uteis estão no arquivo utils.py
